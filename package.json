@@ -1,6 +1,6 @@
 {
   "name": "js-drawer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript drawer",
   "main": "./lib/js-drawer.min.js",
   "homepage": "https://github.com/renhongl/js-drawer",

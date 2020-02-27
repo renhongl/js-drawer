@@ -3,6 +3,7 @@
 
 Javascript drawer tool
 
+Online demo: [Demo](https://renhongl.github.io/source/drawer/)
 
 ## Example Code
 
@@ -49,10 +50,13 @@ loop|Number|Animation next loop waiting time|3000|false
 
 Name|Type|Desc|Parameter|Param Example
 ---|---|---|---|---|---|
-setColor|Function|Set stroke color before draw next line|color\<String\>|#fff
-setSize|Function|Set stroke size before draw next line|size\<Number\>|20
-setState|Function|Set stroke state before draw next line|state\<String\>|pen / pencil / rect
+setColor|Function|Set stroke color before draw next line|color&lt;String&gt;|#fff
+setSize|Function|Set stroke size before draw next line|size&lt;Number&gt;|20
+setState|Function|Set stroke state before draw next line|state&lt;String&gt;|pen / pencil / rect
 animate|Function|Make animation use exsiting graph||
 
 
 
+## License
+
+MIT
