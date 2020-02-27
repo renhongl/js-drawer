@@ -61,7 +61,7 @@ loop|Number|Animation next loop waiting time|3000|false
 ## Drawer API
 
 Name|Type|Desc|Parameter|Param Example
----|---|---|---|---|---|---
+---|---|---|---|---
 setColor|Function|Set stroke color before draw next line|color\<String\>|#fff
 setSize|Function|Set stroke size before draw next line|size\<Number\>|20
 setState|Function|Set stroke state before draw next line|state\<String\>|pen / pencil / rect
